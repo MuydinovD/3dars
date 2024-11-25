@@ -1,0 +1,12 @@
+.completed {
+  opacity: 0.5;
+  text-decoration: line-through;
+}
+
+label span {
+  display: block;
+}
+
+form button {
+  margin-top: 15px;
+}
